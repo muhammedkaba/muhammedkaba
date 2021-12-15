@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🎓 I'm a student at Ankara University
 ### 🌱 I’m currently learning JAVA
+### My Knowledge: C | C# | Java | Python | Angular | React
 ### 📫 How to reach me: [Send me an email](mailto:muhammed.kaba@outlook.com) -- [My Linkedin Account](https://www.linkedin.com/in/muhammed-kaba-a38251206)
 
 ![muhammedkaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedkaba&theme=nightowl&show_icons=true)
