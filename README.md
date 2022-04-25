@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🎓 I'm a student at Ankara University
-### 🌱 I’m currently learning JAVA
+### 🌱 I’m currently learning Unity
 ### My Knowledge: C | C# | Java | Python | Angular | React
 ### 📫 How to reach me: [Send me an email](mailto:muhammed.kaba@outlook.com) -- [My Linkedin Account](https://www.linkedin.com/in/muhammed-kaba-a38251206)
 
