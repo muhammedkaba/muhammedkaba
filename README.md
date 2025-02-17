@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🎓 I'm currently working on a game studio called Lucid11 Interactive as Game Developer
+### 🎓 I'm currently working as a Game Developer at a game studio called Lucid11 Interactive
 ### 🌱 I’m currently learning Unity
 ### My Knowledge: C | C# | Java | Python | Angular | React | Unity
 ### 📫 How to reach me: [Send me an email](mailto:muhammed.kaba@outlook.com) -- [My Linkedin Account](https://www.linkedin.com/in/muhammed-kaba-a38251206)
