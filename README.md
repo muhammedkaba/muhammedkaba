@@ -1,14 +1,14 @@
-### Hi there 👋
-###  I'm currently working as a Game Developer at a game studio called Lucid11 Interactive
-### My Knowledge: C | C# | Java | Python | Angular | React | Unity
-### How to reach me: [Send me an email](mailto:muhammed.kaba@outlook.com) -- [My Linkedin Account](https://www.linkedin.com/in/muhammed-kaba-a38251206)
+# Muhammed Kaba
 
-<!--
-**muhammedkaba/muhammedkaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Unity Game Developer @ [Lucid11 Interactive](https://www.lucid11.com/)** · Ankara
 
-Here are some ideas to get you started:
+Physics-based gameplay, Photon multiplayer, and console porting to Switch & Xbox.
 
+### Shipped
+- 🍹 **[Party Club](https://store.steampowered.com/app/2796010/Party_Club/)** — co-op party game. 40k+ peak CCU on Steam. Built the Photon multiplayer + Switch/Xbox ports with cross-play. *([Photon case study](https://blog.photonengine.com/party-club-by-lucid11-an-indie-multiplayer-hit-built-on-photon/))*
+- 🐹 **[Party Club: Hangry Animals](https://store.steampowered.com/app/4276750/Party_Club_Hangry_Animals/)** — 20+ mini-games on a modular framework, online PvP + split-screen.
+- ⚔️ **Devil Can Beat** — character controllers, combat, enemy AI.
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`C#` `Unity` `Photon` `Steamworks` `Switch SDK` `C++` `Python`
+
+📫 [muhammed.kaba3@gmail.com](mailto:muhammed.kaba3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammed-kaba/)
